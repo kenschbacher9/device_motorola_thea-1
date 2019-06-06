@@ -15,4 +15,4 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/full_thea.mk \
-    $(LOCAL_DIR)/aicp_thea.mk 
+    $(LOCAL_DIR)/rr_thea.mk 
