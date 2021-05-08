@@ -14,5 +14,5 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_thea.mk \
-    $(LOCAL_DIR)/rr_thea.mk 
+    $(LOCAL_DIR)/lineage_thea.mk
+    
